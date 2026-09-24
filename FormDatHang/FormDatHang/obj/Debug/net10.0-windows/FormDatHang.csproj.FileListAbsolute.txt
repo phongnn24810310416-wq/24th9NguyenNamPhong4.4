@@ -1,0 +1,17 @@
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\bin\Debug\net10.0-windows\FormDatHang.exe
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\bin\Debug\net10.0-windows\FormDatHang.deps.json
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\bin\Debug\net10.0-windows\FormDatHang.runtimeconfig.json
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\bin\Debug\net10.0-windows\FormDatHang.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\bin\Debug\net10.0-windows\FormDatHang.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.Form1.resources
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.csproj.GenerateResource.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.GeneratedMSBuildEditorConfig.editorconfig
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.AssemblyInfoInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.AssemblyInfo.cs
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.csproj.CoreCompileInputs.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\refint\FormDatHang.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.pdb
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatHang.genruntimeconfig.cache
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\ref\FormDatHang.dll
+D:\EPU\Ki I nam III\Lap trinh .NET\FormDatHang\FormDatHang\obj\Debug\net10.0-windows\FormDatH.2568799F.Up2Date
